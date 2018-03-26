@@ -2,4 +2,4 @@
 
 Run Jupyter Notebooks [here](https://mybinder.org/v2/gh/strongdan/kaggle-data-cleaning/master)
 
-- [ ] Day 1: Missing Values
+- [X] Day 1: Missing Values
