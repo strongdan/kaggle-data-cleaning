@@ -6,4 +6,4 @@ Run Jupyter Notebooks [here](https://mybinder.org/v2/gh/strongdan/kaggle-data-cl
 - [X] Day 2: Scaling and Normalization
 - [X] Day 3: Parsing Dates
 - [X] Day 4: Character Encodings
-- [ ] Day 5: Inconsistent Data Entry
+- [X] Day 5: Inconsistent Data Entry
